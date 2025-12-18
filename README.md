@@ -18,7 +18,9 @@ A front-end project focused on recreating the user interface of the Spotify Web 
 * **Font Awesome:** High-quality icons for navigation and player controls.
 
 ## 📸 Preview
-![Screenshot](<img width="1920" height="1080" alt="Screenshot 2025-12-19 011326" src="https://github.com/user-attachments/assets/d53d2b21-62ed-41e2-ad24-4a4d79566464" />)
+![Screenshot]
+(<img width="1920" height="1080" alt="Screenshot 2025-12-19 011326" src="https://github.com/user-attachments/assets/e6e82ef0-ba62-4f09-85b3-6069605fb1be" />
+)
 (<img width="1920" height="1080" alt="Screenshot 2025-12-19 011410" src="https://github.com/user-attachments/assets/59573ce2-413e-46b8-b777-aa3bfa976f48" />)
 
 ## 💡 What I Learned
